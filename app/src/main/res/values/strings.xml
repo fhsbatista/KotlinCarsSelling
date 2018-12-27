@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cars for Sale</string>
+    <string name="car_description">Car</string>
+    <string name="brand_car_description">Car\'s brand</string>
+</resources>
